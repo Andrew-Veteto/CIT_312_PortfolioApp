@@ -1,0 +1,16 @@
+body{
+    background-color: #5f8ea0;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+.carousel {
+    height: 100%;
+    width: 100%;
+  }
+
+#andrew{
+    padding: 10em;
+}
